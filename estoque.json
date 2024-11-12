@@ -1,0 +1,47 @@
+[
+  {
+    "produto": {
+      "nome": "whey",
+      "id": "842a679f-91ff-431a-bbc7-bf3c73db11c7"
+    },
+    "preco": 99.9,
+    "quantidade": 91,
+    "id": "1c5c14c9-aa66-4f67-b471-e86bc30570b6"
+  },
+  {
+    "produto": {
+      "nome": "creatina",
+      "id": "ba367b3d-4c42-4d30-976f-337014e22e53"
+    },
+    "preco": 68.9,
+    "quantidade": 88,
+    "id": "9afbdb35-141a-4cda-bb30-7edb8c27a027"
+  },
+  {
+    "produto": {
+      "nome": "strap",
+      "id": "57aaa8a0-19a8-4a9c-ab34-7fefa5549932"
+    },
+    "preco": 5.99,
+    "quantidade": 17,
+    "id": "31785d7c-ed6e-4a8c-9658-2150068946bc"
+  },
+  {
+    "produto": {
+      "nome": "pré treino",
+      "id": "3be1320a-8acb-47d7-8e08-ece4674595d7"
+    },
+    "preco": 78.89,
+    "quantidade": 44,
+    "id": "f54cec75-fb2a-4c13-90c6-307fd9ddef45"
+  },
+  {
+    "produto": {
+      "nome": "Vitamina B12",
+      "id": "8d7e6315-ac9b-46fa-856a-d5b5fef373d5"
+    },
+    "preco": 9.9,
+    "quantidade": 30,
+    "id": "4e3c581c-60a4-4c99-aaeb-0374e1788dd9"
+  }
+]

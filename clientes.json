@@ -1,0 +1,47 @@
+[
+  {
+    "endereco": "Morro da Rádio",
+    "fone": "33988776655",
+    "email": "fidelisthegreatest@gmail.com",
+    "cartao": "1293819283",
+    "id": "448026b7-f171-41ac-a8f0-a973060f4bf9",
+    "name": "Vinicius Fidelis",
+    "cpf": "XXXXXXXXXXX"
+  },
+  {
+    "endereco": "Morro da Rádio",
+    "fone": "33988776655",
+    "email": "guimaraesemanuel99@gmail.com",
+    "cartao": "1293819283",
+    "id": "ff99e469-5d3c-4b07-bb44-ceabbef25d70",
+    "name": "Emanuel Guimarães Santana",
+    "cpf": "XXXXXXXXXXX"
+  },
+  {
+    "endereco": "Morro da Rádio",
+    "fone": "33988776655",
+    "email": "nicolas@gmail.com",
+    "cartao": "1293819283",
+    "id": "008900e4-49d9-4e93-85e4-327d3a527222",
+    "name": "Nicollas Nunes Batista",
+    "cpf": "XXXXXXXXXXX"
+  },
+  {
+    "endereco": "Morro da Rádio",
+    "fone": "33988776655",
+    "email": "senhordosceus44@gmail.com",
+    "cartao": "1293819283",
+    "id": "25a8371f-dbfd-41e6-9951-05ffe760e50c",
+    "name": "Yago Santana Lira",
+    "cpf": "XXXXXXXXXXX"
+  },
+  {
+    "endereco": "123",
+    "fone": "123",
+    "email": "asdasd",
+    "cartao": "123",
+    "id": "c53d1fb1-d35b-44bb-bf52-11efe6592341",
+    "name": "asd",
+    "cpf": "12312312312"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "nomeConta": "Salarios",
+    "descricao": "Todos os salarios do mes de Outubro",
+    "valor": 5000.0,
+    "id": "45c50992-8205-4709-9520-8826aa8d9fb2",
+    "data": "08/11/2024 11:08",
+    "tipo": "Despesa"
+  },
+  {
+    "nomeConta": "Agendamentos",
+    "descricao": "Todos os agendamentos do mes de outubro",
+    "valor": 15000.0,
+    "id": "c317b11e-b472-45a1-9153-e327a5804aa8",
+    "data": "08/11/2024 11:08",
+    "tipo": "Receita"
+  },
+  {
+    "nomeConta": "vendas",
+    "descricao": "Todas as vendas da loja",
+    "valor": 2500.0,
+    "id": "6e3d3107-069a-417d-adb1-7ea82efb1d19",
+    "data": "08/11/2024 11:09",
+    "tipo": "Receita"
+  }
+]

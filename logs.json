@@ -1,0 +1,80 @@
+[
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "28/10/2024 20:00:27",
+    "entrouSaiu": "Saiu"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "28/10/2024 20:03:17",
+    "entrouSaiu": "Entrou"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "02/11/2024 00:28:07",
+    "entrouSaiu": "Entrou"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "02/11/2024 00:28:10",
+    "entrouSaiu": "Saiu"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "02/11/2024 00:28:15",
+    "entrouSaiu": "Entrou"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "02/11/2024 00:28:19",
+    "entrouSaiu": "Saiu"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "04/11/2024 14:37:09",
+    "entrouSaiu": "Entrou"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "04/11/2024 14:37:39",
+    "entrouSaiu": "Entrou"
+  },
+  {
+    "nome": "admin",
+    "email": "admin",
+    "data": "04/11/2024 14:37:43",
+    "entrouSaiu": "Saiu"
+  },
+  {
+    "nome": "Emanuel Guimarães Santana",
+    "email": "guimaraesemanuel99@gmail.com",
+    "data": "08/11/2024 11:02:58",
+    "entrouSaiu": "Entrou"
+  },
+  {
+    "nome": "Emanuel Guimarães Santana",
+    "email": "guimaraesemanuel99@gmail.com",
+    "data": "08/11/2024 11:03:14",
+    "entrouSaiu": "Saiu"
+  },
+  {
+    "nome": "Emanuel Guimarães Santana",
+    "email": "guimaraesemanuel99@gmail.com",
+    "data": "08/11/2024 11:03:35",
+    "entrouSaiu": "Entrou"
+  },
+  {
+    "nome": "Emanuel Guimarães Santana",
+    "email": "guimaraesemanuel99@gmail.com",
+    "data": "08/11/2024 11:03:58",
+    "entrouSaiu": "Saiu"
+  }
+]

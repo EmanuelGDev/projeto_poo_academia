@@ -1,0 +1,41 @@
+[
+  {
+    "cliente": {
+      "endereco": "Morro da Rádio",
+      "fone": "33988776655",
+      "email": "guimaraesemanuel99@gmail.com",
+      "cartao": "1293819283",
+      "id": "ff99e469-5d3c-4b07-bb44-ceabbef25d70",
+      "name": "Emanuel Guimarães Santana",
+      "cpf": "XXXXXXXXXXX"
+    },
+    "valor": 5.99,
+    "item": "strap"
+  },
+  {
+    "cliente": {
+      "endereco": "Morro da Rádio",
+      "fone": "33988776655",
+      "email": "guimaraesemanuel99@gmail.com",
+      "cartao": "1293819283",
+      "id": "ff99e469-5d3c-4b07-bb44-ceabbef25d70",
+      "name": "Emanuel Guimarães Santana",
+      "cpf": "XXXXXXXXXXX"
+    },
+    "valor": 5.99,
+    "item": "strap"
+  },
+  {
+    "cliente": {
+      "endereco": "Morro da Rádio",
+      "fone": "33988776655",
+      "email": "guimaraesemanuel99@gmail.com",
+      "cartao": "1293819283",
+      "id": "ff99e469-5d3c-4b07-bb44-ceabbef25d70",
+      "name": "Emanuel Guimarães Santana",
+      "cpf": "XXXXXXXXXXX"
+    },
+    "valor": 78.89,
+    "item": "pré treino"
+  }
+]
